@@ -30,6 +30,7 @@ Bem-vindo ao meu perfil no GitHub! Iniciando no mundo DEV, apaixonado por tecnol
 Aqui estão alguns dos meus projetos favoritos que você pode conferir:
 
 - [Sistema Bancário](https://github.com/Leonardoup10/SistemaBancario) - Um sistema simples para gerenciamento bancário em Python.
+- [Power BI - Análise de Vendas](https://github.com/Leonardoup10/power_bi_analyst/blob/main/M%C3%B3dulo%202/Desafio%20de%20Projeto/Desafio%20Power%20BI.pbix) - Dashboard em Power BI de Análise de Dados a partir de uma base de vendas disponibilizada pela DIO.
 
 ## 🧑‍🤝‍🧑 Como Contribuir
 
